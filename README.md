@@ -52,10 +52,6 @@ Key Libs used in this React project are:
 
 # Getting Started
 
-- Clone this repo
-
-  ```
-  git clone https://github.com/matheusmhq/pokedex-react-js.git
 
   cd pokedex-react-js
   ```
