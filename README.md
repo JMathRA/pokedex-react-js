@@ -27,9 +27,7 @@
     <img style="border-radius: 5px" src="src/assets/img/demo.gif" alt="Pokedex React js">
 </p>
 
-# Demo
 
-[Pokedex ReactJs - Live ◀️](https://pokedex-up.netlify.app/)
 
 ## Libs
 
